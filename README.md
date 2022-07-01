@@ -1,0 +1,1 @@
+作业3有错误未修改： 扣分点：Laplacian smoothing 写错， Elastic (弹性) Forces 没有乘以scale，bonus task 写错
